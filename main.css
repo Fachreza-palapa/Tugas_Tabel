@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid;
+}
+
+.one {
+    background: black;
+    color: white;
+}
+
+.two {
+    background: green;
+    color: white;
+}
+
+.three {
+    background: red;
+    color: white;
+}
